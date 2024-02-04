@@ -1,0 +1,40 @@
+{
+  "dados": [
+    {
+      "tipodedado": "dados-validos",
+      "name": "teste QA 1",
+      "email": "teste@email.com",
+      "company": "Comapany Valido",
+      "website": "Website Valido",
+      "phone": "(51) 95555-5555",
+      "inquiry": "Inquiry 1"
+    },
+    {
+      "tipodedado": "dados-invalidos",
+      "name": "",
+      "email": "teste",
+      "company": "",
+      "website": "",
+      "phone": "1234",
+      "inquiry": ""
+    },
+    {
+      "tipodedado": "excedendo-limite-máximo-de-caracteres",
+      "name": "Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi",
+      "email": "email151caracteresNamquinullaIntegermalesuadaIninenimaarcuimperdietmalesuadaSedvellectusDonecodiournatempusmolestieporttitorutiaculisquis@email.com.br",
+      "company": "Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ",
+      "website": "websites nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ",
+      "phone": "(51) 95555-555566",
+      "inquiry": "Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor ut, iaculis quis, sem. Phasellus rhoncus. Aenean id metus id velit ullamcorper pulvinar. Vestibulum fermentum tortor id mi. Pellentesque ipsum. Nulla non arcu lacinia neque faucibus fringilla. Nulla non lectus sed nisl molestie malesuada. Proin in tellus sit amet nibh dignissim sagittis. Vivamus luctus egestas leo. Maecenas sollicitudin. Nullam rhoncus aliquam metu"
+    },
+    {
+      "tipodedado": "name-apenas-com-letras",
+      "name": "testeQA",
+      "email": "teste@email.com",
+      "company": "Comapany Valido",
+      "website": "Website Valido",
+      "phone": "(51) 95555-5555",
+      "inquiry": "Inquiry 1"
+    }
+  ]
+}
